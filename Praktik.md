@@ -1,7 +1,8 @@
 # Практическая работа
 
 Лабораторный практикум реализован на макбуке чипа М2:
-[Скачать virtualbox](https://github.com/username/project)https://www.virtualbox.org/wiki/Downloads 
+[Скачать virtualbox](https://github.com/username/project)https://www.virtualbox.org/wiki/Downloads)
+
 [Скачать ubuntu.26.04](https://cdimage.ubuntu.com/releases/26.04/release/)
 
 ![PortSwigger](../Drawing/Drawing_1.png)

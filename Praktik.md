@@ -6,4 +6,4 @@
 
 [Скачать ubuntu.26.04](https://cdimage.ubuntu.com/releases/26.04/release/)
 
-![PortSwigger](../Drawing/Drawing_1.png)
+Остальное можно посмотреть на по [sre-systemd-lab](ссылке https://github.com/vmeshche/sre-systemd-lab#vm)

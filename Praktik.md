@@ -6,4 +6,4 @@
 
 [Скачать ubuntu.26.04](https://cdimage.ubuntu.com/releases/26.04/release/)
 
-Остальное можно посмотреть на по [sre-systemd-lab](ссылке https://github.com/vmeshche/sre-systemd-lab#vm)
+Остальное можно посмотреть на по [sre-systemd-lab](https://github.com/vmeshche/sre-systemd-lab#vm)
